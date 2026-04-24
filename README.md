@@ -1,8 +1,4 @@
 
-# 🏥 Healthcare Analytics Dashboard
-
-### Interactive Hospital Performance Monitoring using Power BI
-
 ---
 
 ## 📌 1. Title
