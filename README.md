@@ -95,15 +95,6 @@ Hospitals often struggle with:
 
 ---
 
-## 🚀 7. Next Steps
-
-* Integrate **real-time database (SQL Server)**
-* Add **predictive analytics (patient inflow forecasting)**
-* Deploy dashboard to **Power BI Service**
-* Enable **role-based access for stakeholders**
-
----
-
 ## 📸 Dashboard Preview *(Optional but HIGHLY Recommended)*
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/406d5e4f-aa50-4e35-aa4c-766c3b30db5d" />
