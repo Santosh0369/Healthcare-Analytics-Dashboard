@@ -48,6 +48,9 @@ Hospitals often struggle with:
 
 * Implemented **Star Schema**:
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ba897c66-e5c8-4132-a8c9-7161e42888c2" />
+
+
   * **Fact Tables:** Visits, Revenue, Appointments
   * **Dimension Tables:** Department, Staff, Date, Age Group, Bed
 
